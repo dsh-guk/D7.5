@@ -1,0 +1,14 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-16LE
+===================================================================
+diff --git a/README.md b/README.md
+deleted file mode 100644
+--- a/README.md	(revision bebbfba2a24d11e4f115fa189acb8a8636ee68c8)
++++ /dev/null	(revision bebbfba2a24d11e4f115fa189acb8a8636ee68c8)
+@@ -1,4 +0,0 @@
+-# NewsPortal-d4.7
+-# NewsPortal-d4.7
+-# NewsPortal-d4.7
+-# NewsPortal-d4.7
